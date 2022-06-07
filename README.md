@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChelseaKerubo
-- 👀 I’m interested in Web and Android Development
-- 🌱 I’m currently learning Computer Science in my 3rd Year.
+- 👀 I’m interested in Web Applications Development
+- 🌱 I’m currently learning Computer Science in my 4th Year.
 - 📫 How to reach me chelseakerubo1@gmail.com
 
 <!---
